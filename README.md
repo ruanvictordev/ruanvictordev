@@ -1,4 +1,4 @@
-## 👋 Hi, im Ruan Victor! 
+## 👋 Hi, i'm Ruan Victor! 
 
 - 😬 Estudando tecnologias Front-End
 - 👥 Sempre disposto a trocar conhecimento :)
