@@ -4,7 +4,7 @@
 - 👥 Sempre disposto a trocar conhecimento :)<br>
 
 <div align="center">
-  <img width="40%" align="left" alt="Angular" src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif"/><br>
+  <img width="40%" align="left" alt="Angular" src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif" width="100%"/><br>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ruancarreirogomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruancarreirogomes&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
