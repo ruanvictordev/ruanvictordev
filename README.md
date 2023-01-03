@@ -1,7 +1,7 @@
 ## 👋 Hi, i'm Ruan Victor! 
 
 - 😬 Estudando tecnologias Front-End
-- 👥 Sempre disposto a trocar conhecimento :)
+- 👥 Sempre disposto a trocar conhecimento :)<br>
 <img width="40%" align="left" alt="Angular" src="https://i.pinimg.com/originals/a9/cb/3d/a9cb3d62f00833ca6f2b034f5c3669b6.gif"/><br>
 <div align="center">
   <a href="https://github.com/biassumcao">
