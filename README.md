@@ -6,7 +6,7 @@
 
 <div align=center>
   <a href="https://github.com/RuanCarreiroGomes/">
-    <img src="https://github-readme-stats.vercel.app/api?username=RuanCarreiroGomes&show_icons=true&icon_color=F0A400&theme=vision-friendly-dark&&bg_color=00000000&hide_title=true&hide_border=true&hide=prs,issues" />
+    <img src="https://github-readme-stats.vercel.app/api?username=RuanCarreiroGomes&show_icons=true&icon_color=6F1AB6&theme=vision-friendly-dark&&bg_color=00000000&hide_title=true&hide_border=true&hide=prs,issues" />
   </a>
 </div>
 
@@ -37,11 +37,11 @@
 
 <div width="100%" align="center">
   <a align="center" href="https://github.com/RuanCarreiroGomes/AirHockey2D" title="Air Hockey 2D">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RuanCarreiroGomes&repo=AirHockey2D&theme=vision-friendly-dark&icon_color=6F1AB6&&border_color=F0A400&bg_color=00000000&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RuanCarreiroGomes&repo=AirHockey2D&theme=vision-friendly-dark&icon_color=6F1AB6&&border_color=6F1AB6&bg_color=00000000&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a align="center" href="https://github.com/RuanCarreiroGomes/RescueGame" title="Rescue Game">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RuanCarreiroGomes&repo=RescueGame&theme=vision-friendly-dark&icon_color=6F1AB6&&border_color=F0A400&bg_color=00000000&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RuanCarreiroGomes&repo=RescueGame&theme=vision-friendly-dark&icon_color=6F1AB6&&border_color=6F1AB6&bg_color=00000000&border_radius=10">
   </a>
 </div>
 
@@ -49,7 +49,7 @@
 
 <div width="100%" align="center">
   <a align="center" href="https://github.com/RuanCarreiroGomes/Costs-React" title="Costs">
-    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RuanCarreiroGomes&repo=Costs-React&theme=vision-friendly-dark&icon_color=6F1AB6&&border_color=F0A400&bg_color=00000000&border_radius=10">
+    <img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=RuanCarreiroGomes&repo=Costs-React&theme=vision-friendly-dark&icon_color=6F1AB6&&border_color=6F1AB6&bg_color=00000000&border_radius=10">
   </a>
   &nbsp;&nbsp;&nbsp;  
 </div>
