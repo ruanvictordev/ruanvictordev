@@ -1,7 +1,8 @@
-<img src="https://i.ibb.co/jf26YF5/Adobe-Express-20230221-1111420-1.png" width="100%">
+
 <h1>Olá!! 👋👨‍💻</br> 
   Sejam bem vindos ao meu GitHub!!!</h1>
 <hr/>
+<img src="https://i.ibb.co/jf26YF5/Adobe-Express-20230221-1111420-1.png" width="100%">
 <div>
   <a href="https://github.com/RuanCarreiroGomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanCarreiroGomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
