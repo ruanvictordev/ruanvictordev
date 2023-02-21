@@ -14,3 +14,15 @@
   <img align="center" alt="AND-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="AND-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
+
+![Snake animation](https://github.com/wallanpsantos/wallanpsantos/blob/output/github-contribution-grid-snake.svg)
+  
+### 🤝🏻 &nbsp;Entre em contato comigo:
+
+  <a href="https://www.linkedin.com/in/ruan-victor-carreiro-gomes-b9202b22b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/ruanvlctor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> &nbsp;&nbsp;</a>   
+   
+<div align="center">
+  
+![](https://komarev.com/ghpvc/?username=RuanCarreiroGomes&style=flat-square&label=Profile+Views&color=brightgreen)
+  
+</div>
