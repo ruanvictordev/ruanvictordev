@@ -1,4 +1,4 @@
-<h1>Olá!!</br> 
+<h1>Olá!! 👋👨‍💻</br> 
   Sejam bem vindos ao meu GitHub!!!</h1>
 <hr/>
 <div>
@@ -20,9 +20,3 @@
 ### 🤝🏻 &nbsp;Entre em contato comigo:
 
   <a href="https://www.linkedin.com/in/ruan-victor-carreiro-gomes-b9202b22b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/ruanvlctor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> &nbsp;&nbsp;</a>   
-   
-<div align="center">
-  
-![](https://komarev.com/ghpvc/?username=RuanCarreiroGomes&style=flat-square&label=Profile+Views&color=brightgreen)
-  
-</div>
