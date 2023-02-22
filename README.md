@@ -6,11 +6,9 @@
 
 <details>
   <summary>Sobre mim</summary>
-  <p>I'm a beginner in programming learning new technologies. I really like everything that involves programming, but I particularly like to develop applications for the web environment. I chose to study ADS (Systems Analysis and Development) at IFPI Campus Pedro II because it was the place where I even had my first contact with actual programming, while I was studying High School Integrated with a Computer Technician. Since then, I fell in love with the area and all its scope.
-
-As a goal, I hope to assist my development team in accordance with the company's standards whenever necessary and gain opportunities to professionalize myself in the job market in the area more and more.
-
-I am quietly confident, curious and working hard to take on my next challenges.</p>
+  <ul>
+    <li>Sou um curioso, apaixonado e desenvolvedor iniciante com foco nas tecnologias front-end, formado como Técnico em Informática e atualmente cursando Análise e Desenvolvimento de Sistemas no IFPI - Campus Pedro II. Buscando, cada vez mais, me profissionalizar na área e superar seus desafios.</li>
+  </ul>
 </details>
 
 <div>
