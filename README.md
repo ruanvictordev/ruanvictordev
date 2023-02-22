@@ -2,7 +2,16 @@
 <h1>Olá!! 👋👨‍💻</br> 
   Bem vindo ao meu GitHub!!!</h1>
 <hr/>
-<img src="https://i.ibb.co/jf26YF5/Adobe-Express-20230221-1111420-1.png" width="100%">
+<img src="https://i.ibb.co/jf26YF5/Adobe-Express-20230221-1111420-1.png" width="100%"
+
+<details>
+  <summary>Sobre mim</summary>
+  <p>I'm a beginner in programming learning new technologies. I really like everything that involves programming, but I particularly like to develop applications for the web environment. I chose to study ADS (Systems Analysis and Development) at IFPI Campus Pedro II because it was the place where I even had my first contact with actual programming, while I was studying High School Integrated with a Computer Technician. Since then, I fell in love with the area and all its scope.
+
+As a goal, I hope to assist my development team in accordance with the company's standards whenever necessary and gain opportunities to professionalize myself in the job market in the area more and more.
+
+I am quietly confident, curious and working hard to take on my next challenges.</p>
+</details>
 
 <div>
  <img height="500em" align="right" alt="HMTL5" src="https://user-images.githubusercontent.com/93049899/216433607-df24729f-40cc-4142-a330-8c9225b7ea70.gif" />
