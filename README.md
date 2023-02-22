@@ -8,6 +8,7 @@
   <summary>Sobre mim</summary>
   <ul>
     <li>Sou um curioso, apaixonado e desenvolvedor iniciante com foco nas tecnologias front-end, formado como Técnico em Informática e atualmente cursando Análise e Desenvolvimento de Sistemas no IFPI - Campus Pedro II. Buscando, cada vez mais, me profissionalizar na área e superar seus desafios.</li>
+  <li>Atualmente cursando o tecnólogo em Análise e Desenvolvimento de Sistemas</li>
   </ul>
 </details>
 
