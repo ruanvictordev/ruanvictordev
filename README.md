@@ -27,7 +27,7 @@
  
  </div><br/>
 
-![Snake animation](https://github.com/RuanCarreiroGomes/RuanCarreiroGomes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ruancarreirogomes/ruancarreirogomes/blob/output/github-contribution-grid-snake.svg)
   
 ### 🤝🏻 &nbsp;Entre em contato comigo:
 
