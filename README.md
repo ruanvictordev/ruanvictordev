@@ -40,7 +40,7 @@
 
 ![Snake animation](https://github.com/ruancarreirogomes/ruancarreirogomes/blob/output/github-contribution-grid-snake.svg)
   
-## 🤝🏻 &nbsp;Entre em contato comigo:
+## 🤝🏻 Entre em contato comigo:
 
   <a href="https://www.linkedin.com/in/ruan-victor-carreiro-gomes-b9202b22b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/ruanvlctor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> &nbsp;&nbsp;</a>   
 <div>
