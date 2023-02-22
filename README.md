@@ -2,8 +2,6 @@
 <h1>Olá!! 👋👨‍💻</br> 
   Bem vindo ao meu GitHub!!!</h1>
 <hr/>
-<img src="https://i.ibb.co/jf26YF5/Adobe-Express-20230221-1111420-1.png" width="100%"
-
 <details>
   <summary>Sobre mim</summary>
   <ul>
@@ -11,6 +9,7 @@
   <li>Atualmente cursando o tecnólogo em Análise e Desenvolvimento de Sistemas</li>
   </ul>
 </details>
+<img src="https://i.ibb.co/jf26YF5/Adobe-Express-20230221-1111420-1.png" width="100%"
 
 <div>
  <img height="500em" align="right" alt="HMTL5" src="https://user-images.githubusercontent.com/93049899/216433607-df24729f-40cc-4142-a330-8c9225b7ea70.gif" />
