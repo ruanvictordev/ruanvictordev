@@ -26,14 +26,14 @@
  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
  
  </div><br/>
-<div style="display: inline_block"><br/>
-  <a href="https://github.com/RuanCarreiroGomes">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanCarreiroGomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanCarreiroGomes&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 ![Snake animation](https://github.com/wallanpsantos/wallanpsantos/blob/output/github-contribution-grid-snake.svg)
   
 ### 🤝🏻 &nbsp;Entre em contato comigo:
 
   <a href="https://www.linkedin.com/in/ruan-victor-carreiro-gomes-b9202b22b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;&nbsp; <a href="https://www.instagram.com/ruanvlctor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> &nbsp;&nbsp;</a>   
+<div>
+  <a href="https://github.com/RuanCarreiroGomes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuanCarreiroGomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanCarreiroGomes&layout=compact&langs_count=7&theme=dark"/>
+</div>
