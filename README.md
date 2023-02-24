@@ -20,12 +20,12 @@
  
  ## 🥉 Outras skills / menos experiência:
  <div style="display: inline_block"><br/>
- <img align="center" alt="REACT" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+ <img align="center" alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
  </div><br/>
  
 ## 📓 Estudando:
 <div style="display: inline_block"><br/>
- <img align="center" alt="REACT" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+ <img align="center" alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </div>
  
 ## 💻 Tools:
