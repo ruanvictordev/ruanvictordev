@@ -5,9 +5,7 @@
 
 <img src="https://i.ibb.co/jf26YF5/Adobe-Express-20230221-1111420-1.png" width="100%">
 
-<div>
- <img height="500em" align="right" alt="HMTL5" src="https://user-images.githubusercontent.com/93049899/216433607-df24729f-40cc-4142-a330-8c9225b7ea70.gif" />
-</div>
+
 
 ## 🎖️ Skills: 
 <div style="display: inline_block"><br/>
