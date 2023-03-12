@@ -17,27 +17,11 @@
  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
  </div><br/>
  
- ## 🥉 Outras skills / menos experiência:
- <div style="display: inline_block"><br/>
- <img align="center" alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
- </div><br/>
  
 ## 📓 Estudando:
 <div style="display: inline_block"><br/>
  <img align="center" alt="ANGULAR" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</div>
- 
-## 💻 Tools:
- <div style="display: inline_block"><br/>
- <img align="center" alt="VSC" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
- <img align="center" alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
- <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><br/>
- <img align="center" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
- <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br/>
- <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/><br/>
- <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
- 
- </div><br/>
+</div><br/>
 
 ![Snake animation](https://github.com/ruancarreirogomes/ruancarreirogomes/blob/output/github-contribution-grid-snake.svg)
   
