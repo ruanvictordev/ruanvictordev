@@ -3,8 +3,6 @@
   Bem vindo ao meu GitHub!!!</h1>
 <hr/>
 
-<img src="https://i.ibb.co/jf26YF5/Adobe-Express-20230221-1111420-1.png" width="100%">
-
 
 
 ## 🎖️ Skills: 
