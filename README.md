@@ -3,7 +3,7 @@
   Bem vindo ao meu GitHub!!!</h1>
 <hr/>
 
-Veja meu <a href="https://ruanvcg.github.io" target="_blank">Portfolio</a> <--
+Veja meu <a href="https://ruanvcg.github.io/Portfolio" target="_blank">Portfolio</a> <--
 
 ## 🎖️ Skills: 
 <div style="display: inline_block"><br/>
