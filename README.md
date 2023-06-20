@@ -5,6 +5,8 @@
 
 Veja meu <a href="https://ruanvcg.github.io/Portfolio" target="_blank">Portfolio</a> <--
 
+<img src="https://i.ibb.co/JmHdK0P/Adobe-Express-20230620-2037080-1.png" width="100%">
+
 ## 🎖️ Skills: 
 <div style="display: inline_block"><br/>
    <img align="center" alt="HMTL5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
