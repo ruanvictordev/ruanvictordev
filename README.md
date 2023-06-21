@@ -3,9 +3,9 @@
   Bem vindo ao meu GitHub!!!</h1>
 <hr/>
 
-Veja meu <a href="https://ruanvcg.github.io/Portfolio" target="_blank">Portfolio</a> <--
-
 <img src="https://i.ibb.co/JmHdK0P/Adobe-Express-20230620-2037080-1.png" width="100%">
+
+Veja meu <a href="https://ruanvcg.github.io/Portfolio" target="_blank">Portfolio</a> <--
 
 ## 🎖️ Skills: 
 <div style="display: inline_block"><br/>
