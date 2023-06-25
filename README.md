@@ -1,10 +1,21 @@
 
 <h1>Olá Mundo!! 👋👨‍💻</h1>
+<h3>Bem vindo ao meu Github.</h3>
 <hr/>
 
 <img src="https://i.ibb.co/JmHdK0P/Adobe-Express-20230620-2037080-1.png" width="100%">
 
-Veja meu <a href="https://ruanvcg.github.io/Portfolio" target="_blank">Portfolio</a> <--
+ ## Sobre mim
+ 
+- 👨‍🎓 Formado em **Técnico em Informatíca**;
+
+- 📚 Graduando em **Análise e desenvolvimento de sistemas**;
+  
+- 🧐 Estudante do **IFPI Campus Pedro II**;
+
+- 💬 Eai? Vamos codar?  **ruanvictorp22111@gmail.com**
+
+- 🚀 Aproveita e passa lá no meu **[Portfolio](https://ruanvcg.github.io/Portfolio/)** 😄;
 
 ## 🎖️ Skills: 
 <div align="left">
