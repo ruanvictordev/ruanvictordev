@@ -29,6 +29,9 @@
     <a href='https://www.javascript.com/'>
       <img src="https://skillicons.dev/icons?i=js"/>
     </a>
+    <a href='https://getbootstrap.com/'>
+      <img src="https://skillicons.dev/icons?i=bootstrap"/>
+    </a>
     <a href='https://git-scm.com/'>
      <img src="https://skillicons.dev/icons?i=git"/>
     </a>
