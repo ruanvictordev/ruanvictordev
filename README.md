@@ -1,9 +1,8 @@
 
-<h1>Olá Mundo!! 👋👨‍💻</h1>
-<h3>Bem vindo ao meu Github.</h3>
+<h1>Olá Mundo!! 👨‍💻</h1>
 <hr/>
 
-<img src="https://i.ibb.co/JmHdK0P/Adobe-Express-20230620-2037080-1.png" width="100%">
+<img src="https://i.ibb.co/jh2kMKR/Adobe-Express-20230630-2116360-1.png" width="100%">
 
  ## Sobre mim
  
