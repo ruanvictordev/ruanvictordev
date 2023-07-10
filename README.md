@@ -28,6 +28,9 @@
     <a href='https://www.javascript.com/'>
       <img src="https://skillicons.dev/icons?i=js"/>
     </a>
+    <a href='https://www.mysql.com/'>
+      <img src="https://skillicons.dev/icons?i=mysql"/>
+    </a>
     <a href='https://getbootstrap.com/'>
       <img src="https://skillicons.dev/icons?i=bootstrap"/>
     </a>
