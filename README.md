@@ -4,7 +4,7 @@
 
 <img src="https://i.ibb.co/jh2kMKR/Adobe-Express-20230630-2116360-1.png" width="100%">
 
- ## Sobre mim
+ ## 🧑🏻 Sobre mim
  
 - 👨‍🎓 Formado em **Técnico em Informatíca**;
 
@@ -50,6 +50,19 @@
        <img src="https://skillicons.dev/icons?i=angular">
     </a>
  </p>
+</div>
+
+## 📞 Entre em contato:
+<div align="left">
+  <a href="mailto:ruanvictorp22111@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ruan-victor-carreiro-gomes-b9202b22b/">
+    <img src="https://img.shields.io/badge/Linkedin-151515?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/ruanvlctor/">
+    <img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
 
 ![Snake animation](https://github.com/ruancarreirogomes/ruancarreirogomes/blob/output/github-contribution-grid-snake.svg)
