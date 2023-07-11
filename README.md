@@ -53,3 +53,4 @@
 </div>
 
 ![Snake animation](https://github.com/ruancarreirogomes/ruancarreirogomes/blob/output/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://komarev.com/ghpvc/?username=ruanvcg&label=PROFILE%20VIEWS&color=151515&style=flat" alt="ruanvcg" /></div>
