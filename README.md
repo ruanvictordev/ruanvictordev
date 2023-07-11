@@ -26,9 +26,6 @@
     <a href='https://www.javascript.com/'>
       <img src="https://skillicons.dev/icons?i=js"/>
     </a>
-    <a href='https://www.mysql.com/'>
-      <img src="https://skillicons.dev/icons?i=mysql"/>
-    </a>
     <a href='https://getbootstrap.com/'>
       <img src="https://skillicons.dev/icons?i=bootstrap"/>
     </a>
@@ -64,4 +61,3 @@
 </div>
 
 ![Snake animation](https://github.com/ruancarreirogomes/ruancarreirogomes/blob/output/github-contribution-grid-snake.svg)
-<div align="center"><img src="https://komarev.com/ghpvc/?username=ruanvcg&label=PROFILE%20VIEWS&color=151515&style=flat" alt="ruanvcg" /></div>
