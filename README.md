@@ -12,9 +12,7 @@
   
 - 🧐 Estudante do **IFPI Campus Pedro II**;
 
-- 💬 Eai? Vamos codar?  **ruanvictorp22111@gmail.com**
-
-- 🚀 Aproveita e passa lá no meu **[Portfolio](https://ruanvcg.github.io/Portfolio/)** 😄;
+- 🚀 Acesse meu **[Portfolio](https://ruanvcg.github.io/Portfolio/)**;
 
 ## 🎖️ Skills: 
 <div align="left">
