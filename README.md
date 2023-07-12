@@ -36,16 +36,6 @@
      <img src="https://skillicons.dev/icons?i=figma"/>
     </a>
  </p>
- 
- 
-## 📓 Estudando:
-<div align="left">
- <p>
-    <a href="https://angular.io/">
-       <img src="https://skillicons.dev/icons?i=angular">
-    </a>
- </p>
-</div>
 
 ## 📞 Entre em contato:
 <div align="left">
