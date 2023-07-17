@@ -1,7 +1,3 @@
-
-<h1>Olá Mundo!! 👨‍💻</h1>
-<hr/>
-
 <img src="https://i.ibb.co/jh2kMKR/Adobe-Express-20230630-2116360-1.png" width="100%">
 
  ## 🧑🏻 Sobre mim
