@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/jh2kMKR/Adobe-Express-20230630-2116360-1.png" width="100%">
+<img src="https://i.ibb.co/0M9WXgw/capa.png" width="100%">
 
  ## 🧑🏻 Sobre mim
  
