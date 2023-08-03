@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/J5QDQ1t/caparuan.png" width="100%">
+<img src="https://i.ibb.co/J7Np9ZL/capaperfil.png" width="100%">
 
  ## 🧑🏻 Sobre mim
  
