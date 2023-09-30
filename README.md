@@ -1,16 +1,16 @@
-<img src="https://i.ibb.co/J7Np9ZL/capaperfil.png" width="100%">
+![image](https://github.com/ruanvcg/ruanvcg/assets/62728646/3583e909-0b9f-4144-8264-0722c19a7b2a)<img src="https://i.ibb.co/WFL8bNv/Banner-Ruan.png" width="100%">
 
- ## 🧑🏻 Sobre mim
+ ## 🧑🏻 About me
  
-- 👨‍🎓 Formado em **Técnico em Informatíca**;
+- 👨‍🎓 Graduated in **Computer Technician**;
 
-- 📚 Graduando em **Análise e desenvolvimento de sistemas**;
+- 📚 Graduating in **Systems Analysis and Development**;
   
-- 🧐 Estudante do **IFPI Campus Pedro II**;
+- 🧐 Student at **IFPI Campus Pedro II**;
 
-- 🚀 Acesse meu **[Portfolio](https://ruanvcg.github.io/Portfolio/)**;
+- 🚀 Access my **[Portfolio](https://ruanvcg.github.io/Portfolio/)**;
 
-## 🎖️ Skills: 
+## 🎖️ Skills and Competencies 
 <div align="left">
  <p>
     <a href='https://html.com/'>
@@ -33,7 +33,7 @@
     </a>
  </p>
 
-## 📞 Entre em contato:
+## 📞 Contact:
 <div align="left">
   <a href="mailto:ruanvictorp22111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=white">
