@@ -1,4 +1,4 @@
-![image](https://github.com/ruanvcg/ruanvcg/assets/62728646/3583e909-0b9f-4144-8264-0722c19a7b2a)<img src="https://i.ibb.co/WFL8bNv/Banner-Ruan.png" width="100%">
+<img src="https://i.ibb.co/WFL8bNv/Banner-Ruan.png" width="100%">
 
  ## 🧑🏻 About me
  
