@@ -33,7 +33,7 @@
     </a>
  </p>
 
-## 📞 Contact:
+## 📞 Contact
 <div align="left">
   <a href="mailto:ruanvictorp22111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=white">
