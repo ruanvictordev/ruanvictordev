@@ -6,6 +6,8 @@
 
 - 📚 Graduating in **Systems Analysis and Development**;
 
+- 🧐 Student at **IFPI Campus Pedro II**;
+
 - 🚀 Access my **[Portfolio](https://ruanvcg.github.io/Portfolio/)**;
 
 ## 🎖️ Skills and Competencies 
