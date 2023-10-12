@@ -32,6 +32,7 @@
      <img src="https://skillicons.dev/icons?i=figma"/>
     </a>
  </p>
+</div>
 
 ## 📞 Contact
 <div align="left">
