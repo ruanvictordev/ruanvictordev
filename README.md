@@ -14,6 +14,9 @@
 <div align="left">
  <p>
     <a href='https://html.com/'>
+      <img src="https://skillicons.dev/icons?i=angular"/>
+    </a>
+    <a href='https://html.com/'>
       <img src="https://skillicons.dev/icons?i=html"/>
     </a>
     <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
@@ -24,6 +27,9 @@
     </a>
     <a href='https://getbootstrap.com/'>
       <img src="https://skillicons.dev/icons?i=bootstrap"/>
+    </a>
+    <a href='https://html.com/'>
+      <img src="https://skillicons.dev/icons?i=mysql"/>
     </a>
     <a href='https://git-scm.com/'>
      <img src="https://skillicons.dev/icons?i=git"/>
