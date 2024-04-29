@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/WFL8bNv/Banner-Ruan.png" width="100%">
+<img src="https://github.com/ruanvcg/portfolio/assets/62728646/02306cac-91cb-4196-a7c9-1d0c9141d765" width="100%">
 
  ## 🧑🏻 About me
  
