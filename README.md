@@ -48,7 +48,7 @@
   <a href="mailto:ruanvictorp22111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/ruan-victor-carreiro-gomes-b9202b22b/">
+  <a href="https://www.linkedin.com/in/ruanvcg">
     <img src="https://img.shields.io/badge/Linkedin-151515?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/ruanvlctor/">
