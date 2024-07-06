@@ -16,6 +16,9 @@
     <a href='https://angular.io'>
       <img src="https://skillicons.dev/icons?i=angular"/>
     </a>
+    <a href='https://tailwindcss.com'>
+      <img src="https://skillicons.dev/icons?i=tailwind"/>
+    </a>
     <a href='https://getbootstrap.com/'>
       <img src="https://skillicons.dev/icons?i=bootstrap"/>
     </a>
