@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/b61eeb98-f3c6-4b7c-a49c-4971cf27da02" width="100%">
+<img src="https://github.com/user-attachments/assets/cc785e4f-bf7b-42f9-8e17-fcb3401068e7" width="100%">
 
  ## 🧑🏻 About me
  
