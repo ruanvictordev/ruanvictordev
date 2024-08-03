@@ -1,4 +1,4 @@
-<img src="https://github.com/ruanvcg/portfolio/assets/62728646/02ffed8c-b98e-4967-84a5-7053fdcef09c" width="100%">
+<img src="https://github.com/user-attachments/assets/b61eeb98-f3c6-4b7c-a49c-4971cf27da02" width="100%">
 
  ## 🧑🏻 About me
  
