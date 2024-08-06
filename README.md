@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/94511423-781b-41d8-ba66-e343efd19063" width="100%">
+<img src="https://github.com/user-attachments/assets/b9af4a37-63db-4e0d-aac0-38592eafc259" width="100%">
 
  ## 🧑🏻 About me
  
@@ -13,9 +13,6 @@
 ## 🎖️ Skills and Competencies 
 <div align="left">
  <p>
-    <a href='https://angular.io'>
-      <img src="https://skillicons.dev/icons?i=angular"/>
-    </a>
     <a href='https://tailwindcss.com'>
       <img src="https://skillicons.dev/icons?i=tailwind"/>
     </a>
