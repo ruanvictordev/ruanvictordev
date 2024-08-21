@@ -8,7 +8,7 @@
 
 - 🧐 Student at **IFPI Campus Pedro II**;
 
-- 🚀 Access my **[Portfolio](https://ruanvcg.github.io/portfolio/)**;
+- 🚀 Access my **[Portfolio](https://ruanvictordev.github.io/portfolio/)**;
 
 ## 🎖️ Skills and Competencies 
 <div align="left">
