@@ -10,39 +10,6 @@
 
 - 🚀 Access my **[Portfolio](https://ruanvictordev.github.io/portfolio/)**;
 
-## 🎖️ Skills and Competencies 
-<div align="left">
- <p>
-    <a href='https://tailwindcss.com'>
-      <img src="https://skillicons.dev/icons?i=tailwind"/>
-    </a>
-    <a href='https://getbootstrap.com/'>
-      <img src="https://skillicons.dev/icons?i=bootstrap"/>
-    </a>
-    <a href='https://www.mysql.com'>
-      <img src="https://skillicons.dev/icons?i=mysql"/>
-    </a>
-    <a href='https://www.typescriptlang.org'>
-      <img src="https://skillicons.dev/icons?i=typescript"/>
-    </a>
-    <a href='https://www.javascript.com/'>
-      <img src="https://skillicons.dev/icons?i=js"/>
-    </a>
-    <a href='https://html.com/'>
-      <img src="https://skillicons.dev/icons?i=html"/>
-    </a>
-    <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
-      <img src="https://skillicons.dev/icons?i=css"/>
-    </a>
-    <a href='https://git-scm.com/'>
-     <img src="https://skillicons.dev/icons?i=git"/>
-    </a>
-    <a href='https://www.figma.com/'>
-     <img src="https://skillicons.dev/icons?i=figma"/>
-    </a>
- </p>
-</div>
-
 ## 📞 Contact
 <div align="left">
   <a href="mailto:ruanvictorp22111@gmail.com">
