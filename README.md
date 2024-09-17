@@ -6,19 +6,19 @@
 
 - 📚 Graduating in **Systems Analysis and Development**;
 
-- 🧐 Student at **IFPI Campus Pedro II**;
+- 💡 Community Leader **[Code Warriors](https://github.com/Code-Wariors)**;
 
 - 🚀 Access my **[Portfolio](https://ruanvictordev.github.io/portfolio/)**;
 
 ## 📞 Contact
 <div align="left">
-  <a href="mailto:ruanvictorp22111@gmail.com">
+  <a href="mailto:ruanvictordev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-151515?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/ruanvcg">
+  <a href="https://www.linkedin.com/in/ruanvictordev">
     <img src="https://img.shields.io/badge/Linkedin-151515?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/ruanvlctor/">
+  <a href="https://www.instagram.com/ruanvictordev/">
     <img src="https://img.shields.io/badge/Instagram-151515?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
