@@ -6,7 +6,7 @@
 
 - 📚 Graduating in **Systems Analysis and Development**;
 
-- 💡 Community Leader **[Code Warriors](https://github.com/Code-Wariors)**;
+- 💡 Community Leader **[Code Warriors](https://github.com/codewarriorsdevs)**;
 
 - 🚀 Access my **[Portfolio](https://ruanvictordev.github.io/portfolio/)**;
 
