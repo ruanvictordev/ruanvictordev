@@ -4,7 +4,7 @@
  
 - 👨‍🎓 Graduated in **Computer Technician**;
 
-- 📚 Graduating in **Systems Analysis and Development**;
+- 👨‍🎓 Graduating in **Systems Analysis and Development**;
 
 - 💡 Community Leader **[Code Warriors](https://github.com/codewarriorsdevs)**;
 
