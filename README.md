@@ -8,7 +8,7 @@
 
 - 💡 Community Leader **[Code Warriors](https://codewarriorsdevs.vercel.app/)**;
 
-- 🚀 Access my **[Portfolio](https://ruanvictordev.github.io/portfolio/)**;
+- 🚀 Access my **[Portfolio](https://ruanvictor.vercel.app/)**;
 
 ## 📞 Contact
 <div align="left">
