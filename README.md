@@ -8,6 +8,8 @@
 
 - 💡 Community Leader **[Code Warriors](https://codewarriorsdevs.vercel.app/)**;
 
+- 📝 Writting on **[Devto](https://dev.to/ruanvictordev)**
+
 - 🚀 Access my **[Portfolio](https://ruanvictor.vercel.app/)**;
 
 ## 🛠 Techs
