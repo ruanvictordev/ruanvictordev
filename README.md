@@ -6,7 +6,7 @@
 
 - 👨‍🎓 Graduating in **Systems Analysis and Development**;
 
-- 💡 Community Leader **[Code Warriors](https://codewarriorsdevs.vercel.app/)**;
+- 💡 Community Manager **[Code Warriors](https://codewarriorsdevs.vercel.app/)**;
 
 - 📝 Writting on **[Devto](https://dev.to/ruanvictordev)**;
 
