@@ -10,7 +10,7 @@
 
 - 📝 Writting on **[Devto](https://dev.to/ruanvictordev)**;
 
-- 🚀 Access my **[Portfolio](https://ruanvictor.vercel.app/)**;
+- 🚀 Access my **[Portfolio](https://ruanvictordev.com/)**;
 
 ## 🛠 Techs
 <div style="display: flex">
