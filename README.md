@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/5H8zWLp/Mask-group-8.png" width="100%">
+<img src="https://i.ibb.co/s9YKCSrZ/Mask-group-9.png" width="100%">
 
  ## 🧑🏻 About me
  
