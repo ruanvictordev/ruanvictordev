@@ -14,13 +14,14 @@
 
 ## 🛠 Techs
 <div style="display: flex">
- <img src="https://github.com/user-attachments/assets/5e6e62f2-6ec4-4c6e-9ae8-18f47e395759" width="60">
- <img src="https://github.com/user-attachments/assets/fd6af41f-aa7e-4af0-a244-fa7dae6668c3" width="60">
- <img src="https://github.com/user-attachments/assets/1ef32beb-70f8-4dec-93f7-44fa9968c912" width="60">
- <img src="https://github.com/user-attachments/assets/7e1633b5-7fe7-4144-b8d8-5d7282426597" width="60">
- <img src="https://github.com/user-attachments/assets/f8908199-3725-4b0f-a2d9-4955fb978449" width="60">
- <img src="https://github.com/user-attachments/assets/74abbb42-399c-46c4-ac7f-f44058b2926e" width="60">
- <img src="https://github.com/user-attachments/assets/5e778abb-a29e-4e2a-b2ea-0b5394a41e33" width="60">
+<img src="https://i.ibb.co/ynd4Szmm/Figma.png" alt="Figma" width="60" border="0">
+<img src="https://i.ibb.co/ksbVrRbm/MySQL.png" alt="MySQL" width="60" border="0">
+<img src="https://i.ibb.co/YTLHwVRN/Prisma.png" alt="Prisma" width="60" border="0">
+<img src="https://i.ibb.co/zVYjhBG6/MongoD.png" alt="MongoD" width="60" border="0">
+<img src="https://i.ibb.co/LhtXQz8f/Tailwind.png" alt="Tailwind" width="60" border="0">
+<img src="https://i.ibb.co/GvWSHQ4P/Java-Script.png" alt="Java-Script" width="60" border="0">
+<img src="https://i.ibb.co/n8DPTbTP/Type-Script.png" alt="Type-Script" width="60" border="0">
+<img src="https://i.ibb.co/0V2Vdymr/React.png" alt="React" width="60" border="0">
 </div>
 
 ## 📞 Contact
